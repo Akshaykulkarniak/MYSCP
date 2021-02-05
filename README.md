@@ -1,0 +1,2 @@
+# MYSCP
+Interactive Secure Copy
